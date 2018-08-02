@@ -1,0 +1,12 @@
+/give @p minecraft:written_book
+{
+  pages:[
+    "{
+      \"text\":\"One\",
+      \"bold\":true
+    }",
+    "Two"
+  ],
+  title:test1,
+  author:me
+}
