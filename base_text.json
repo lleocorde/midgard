@@ -1,0 +1,28 @@
+{
+    "text": "",
+    "translate": "",
+    "with": [],
+    "score": {
+        "name": "",
+        "objective": "",
+        "value": ""
+    },
+    "selector": "",
+    "keybind": "",
+    "color": "",
+    "bold": false,
+    "italic": false,
+    "underlined": false,
+    "strikethrough": false,
+    "obfuscated": false,
+    "insertion": "",
+    "clickEvent": {
+        "action": "",
+        "value": ""
+    },
+    "hoverEvent": {
+        "action": "",
+        "value": ""
+    },
+    "extra": []
+}
