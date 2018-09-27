@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "[\"\",{\"text\":\"MASTER COMMANDS\",\"bold\":true,\"underlined\":true},{\"text\":\"\\n\",\"color\":\"reset\"},{\"text\":\"\\u25b6 MCC\",\"color\":\"dark_aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/tp @s 375.5 12.5 541.5 -180 0\"}},{\"text\":\"\\n\",\"color\":\"reset\"},{\"text\":\"\\u25b6 Village\",\"color\":\"gold\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/tp @s -69 58.5 104\"}}]"
+  ],
+  "title": "Midgard Magic",
+  "author": "Lleocorde",
+  "display": {
+    "Lore": [
+      "Master commands for the Architects"
+    ]
+  }
+}
