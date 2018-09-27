@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "[\"\",{texxt}]",
+    "page2"
+  ],
+  "title": "my title",
+  "author": "Lleocorde",
+  "display": {
+    "Lore": [
+      "lore text",
+      "second lore"
+    ]
+  }
+}
