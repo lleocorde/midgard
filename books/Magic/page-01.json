@@ -1,0 +1,14 @@
+{
+    "text": "CONTENTS\\n",
+    "bold": true,
+    "underlined": true
+},
+{
+    "text": "Waypoints",
+    "color": "dark_blue",
+    "italic": false,
+    "clickEvent": {
+        "action": "change_page",
+        "value": "2"
+    }
+}

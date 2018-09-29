@@ -1,0 +1,6 @@
+/summon villager 12 67 153 {CustomName:"\"Jeffery\"",Offers:{Recipes:[{buy:{id:coal_ore,Count:15},buyB:{id:iron_ore,Count:10},sell:{id:trident,Count:1,tag:{Enchantments:[{id:loyalty,lvl:3}]}},maxUses:9999999}]},Profession:3,Career:3,CareerLevel:2}
+
+
+{"CustomName":"\"Jeffery\"","Offers":{"Recipes":[{"buy":{"id":"coal_ore","Count":15},"buyB":{"id":"iron_ore","Count":10},"sell":{"id":"trident","Count":1,"tag":{"Enchantments":[{"id":"loyalty","lvl":3}]}},"maxUses":9999999}]},"Profession":3,"Career":3,"CareerLevel":2}
+
+{"CustomName":"\"Jeffery\"","Offers":{"Recipes":[{"buy":{"id":"coal_ore","Count":15},"buyB":{"id":"iron_ore","Count":10},"sell":{"id":"trident","Count":1,"tag":{"Enchantments":[{"id":"loyalty","lvl":3}]}},"maxUses":9999999}]},"Profession":3,"Career":3,"CareerLevel":2,"Tags": "\"NPC1\""}
