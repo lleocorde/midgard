@@ -1,10 +1,10 @@
 ["",
 {
-    "text": "Teleport to the center\\n",
+    "text": "Teleport to the village\\n",
     "color": "blue",
     "clickEvent": {
         "action": "run_command",
-        "value": "/tp @s -21 28 -101 -72.7 6.4"
+        "value": "/tp @s -79 76 94 -75.8 14.1"
     },
     "hoverEvent": {
         "action": "show_text",
@@ -16,11 +16,11 @@
   "color": "reset"
 },
 {
-    "text": "Rebuild the shell...",
+    "text": "More Text",
     "color": "dark_green",
     "clickEvent": {
         "action": "run_command",
-        "value": "/fill -30 24 -109 -10 34 -89 minecraft:sea_lantern outline"
+        "value": "/say Hi"
     }
 }
 ]
