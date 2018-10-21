@@ -1,14 +1,25 @@
+["",
 {
     "text": "CONTENTS\\n",
     "bold": true,
     "underlined": true
 },
 {
-    "text": "Waypoints",
+    "text": "Midgard Command Center\\n",
     "color": "dark_blue",
     "italic": false,
     "clickEvent": {
         "action": "change_page",
         "value": "2"
     }
+},
+{
+    "text": "Village stuff\\n",
+    "color": "dark_green",
+    "italic": false,
+    "clickEvent": {
+        "action": "change_page",
+        "value": "3"
+    }
 }
+]

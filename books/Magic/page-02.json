@@ -1,12 +1,26 @@
+["",
 {
-    "text": "Midgard Command Center\\n",
+    "text": "Teleport to the center\\n",
     "color": "blue",
     "clickEvent": {
         "action": "run_command",
-        "value": "/tp @s ~0 ~10 ~0"
+        "value": "/tp @s -21 28 -101 -72.7 6.4"
     },
     "hoverEvent": {
         "action": "show_text",
-        "value": "You beter get Lleocord's permission first..."
+        "value": "You beter get Lleocorde's permission first..."
+    }
+},
+{
+  "text": "\\n",
+  "color": "reset"
+},
+{
+    "text": "Rebuild the shell...",
+    "color": "dark_green",
+    "clickEvent": {
+        "action": "run_command",
+        "value": "/fill -30 24 -109 -10 34 -89 minecraft:sea_lantern outline"
     }
 }
+]
