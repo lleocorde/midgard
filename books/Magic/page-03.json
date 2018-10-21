@@ -1,0 +1,26 @@
+["",
+{
+    "text": "Teleport to the village\\n",
+    "color": "blue",
+    "clickEvent": {
+        "action": "run_command",
+        "value": "/tp @s -79 76 94 -75.8 14.1"
+    },
+    "hoverEvent": {
+        "action": "show_text",
+        "value": "You beter get Lleocorde's permission first..."
+    }
+},
+{
+  "text": "\\n",
+  "color": "reset"
+},
+{
+    "text": "More Text",
+    "color": "dark_green",
+    "clickEvent": {
+        "action": "run_command",
+        "value": "/say Hi"
+    }
+}
+]
