@@ -1,0 +1,14 @@
+/fill ~2 ~-1 ~-1 ~2 ~-1 ~1 minecraft:quartz_stairs[facing=east]
+/fill ~3 ~-2 ~-1 ~7 ~-2 ~1 minecraft:quartz_pillar[axis=x]
+/fill ~3 ~-2 ~-1 ~7 ~0 ~1 minecraft:chiseled_quartz_block
+/fill ~3 ~-2 ~-1 ~7 ~-2 ~1 minecraft:white_stained_glass_pane
+/fill ~4 ~-4 ~-1 ~7 ~-4 ~-1 minecraft:command_block[facing=east]
+/fill ~4 ~-3 ~-1 ~7 ~-3 ~-1 minecraft:command_block[facing=east]
+/fill ~4 ~-4 ~1 ~7 ~-4 ~1 minecraft:command_block[facing=east]
+/fill ~4 ~-7 ~1 ~7 ~-7 ~1 minecraft:command_block[facing=east]
+/fill ~3 ~-5 ~-1 ~8 ~-5 ~1 minecraft:chiseled_quartz_block outline
+/fill ~4 ~-6 ~ ~7 ~-6 ~ minecraft:sea_lantern
+/fill ~3 ~-10 ~ ~7 ~-8 ~ minecraft:air
+/fill ~8 ~-12 ~-1 ~8 ~-9 ~1 minecraft:chiseled_quartz_block
+/fill ~8 ~-11 ~-1 ~8 ~-11 ~1 minecraft:quartz_pillar[axis=y]
+/fill ~8 ~-12 ~ ~8 ~-12 ~ minecraft:sea_lantern

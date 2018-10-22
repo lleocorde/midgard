@@ -1,0 +1,187 @@
+{
+  "id": "falling_block",
+  "BlockState": {
+    "Name": "command_block"
+  },
+  "Time": 1,
+  "TileEntityData": {
+    "Command": "/fill ~2 ~-1 ~-1 ~2 ~-1 ~1 minecraft:quartz_stairs[facing=east]"
+  },
+  "Passengers": [
+    {
+      "id": "falling_block",
+      "BlockState": {
+        "Name": "command_block"
+      },
+      "Time": 1,
+      "TileEntityData": {
+        "Command": "/fill ~3 ~-2 ~-1 ~7 ~-2 ~1 minecraft:quartz_pillar[axis=x]"
+      },
+      "Passengers": [
+        {
+          "id": "falling_block",
+          "BlockState": {
+            "Name": "command_block"
+          },
+          "Time": 1,
+          "TileEntityData": {
+            "Command": "/fill ~3 ~-2 ~-1 ~7 ~0 ~1 minecraft:chiseled_quartz_block"
+          },
+          "Passengers": [
+            {
+              "id": "falling_block",
+              "BlockState": {
+                "Name": "command_block"
+              },
+              "Time": 1,
+              "TileEntityData": {
+                "Command": "/fill ~3 ~-2 ~-1 ~7 ~-2 ~1 minecraft:white_stained_glass_pane"
+              },
+              "Passengers": [
+                {
+                  "id": "falling_block",
+                  "BlockState": {
+                    "Name": "command_block"
+                  },
+                  "Time": 1,
+                  "TileEntityData": {
+                    "Command": "/fill ~4 ~-4 ~-1 ~7 ~-4 ~-1 minecraft:command_block[facing=east]"
+                  },
+                  "Passengers": [
+                    {
+                      "id": "falling_block",
+                      "BlockState": {
+                        "Name": "command_block"
+                      },
+                      "Time": 1,
+                      "TileEntityData": {
+                        "Command": "/fill ~4 ~-3 ~-1 ~7 ~-3 ~-1 minecraft:command_block[facing=east]"
+                      },
+                      "Passengers": [
+                        {
+                          "id": "falling_block",
+                          "BlockState": {
+                            "Name": "command_block"
+                          },
+                          "Time": 1,
+                          "TileEntityData": {
+                            "Command": "/fill ~4 ~-4 ~1 ~7 ~-4 ~1 minecraft:command_block[facing=east]"
+                          },
+                          "Passengers": [
+                            {
+                              "id": "falling_block",
+                              "BlockState": {
+                                "Name": "command_block"
+                              },
+                              "Time": 1,
+                              "TileEntityData": {
+                                "Command": "/fill ~4 ~-7 ~1 ~7 ~-7 ~1 minecraft:command_block[facing=east]"
+                              },
+                              "Passengers": [
+                                {
+                                  "id": "falling_block",
+                                  "BlockState": {
+                                    "Name": "command_block"
+                                  },
+                                  "Time": 1,
+                                  "TileEntityData": {
+                                    "Command": "/fill ~3 ~-5 ~-1 ~8 ~-5 ~1 minecraft:chiseled_quartz_block outline"
+                                  },
+                                  "Passengers": [
+                                    {
+                                      "id": "falling_block",
+                                      "BlockState": {
+                                        "Name": "command_block"
+                                      },
+                                      "Time": 1,
+                                      "TileEntityData": {
+                                        "Command": "/fill ~4 ~-6 ~ ~7 ~-6 ~ minecraft:sea_lantern"
+                                      },
+                                      "Passengers": [
+                                        {
+                                          "id": "falling_block",
+                                          "BlockState": {
+                                            "Name": "command_block"
+                                          },
+                                          "Time": 1,
+                                          "TileEntityData": {
+                                            "Command": "/fill ~3 ~-10 ~ ~7 ~-8 ~ minecraft:air"
+                                          },
+                                          "Passengers": [
+                                            {
+                                              "id": "falling_block",
+                                              "BlockState": {
+                                                "Name": "command_block"
+                                              },
+                                              "Time": 1,
+                                              "TileEntityData": {
+                                                "Command": "/fill ~8 ~-12 ~-1 ~8 ~-9 ~1 minecraft:chiseled_quartz_block"
+                                              },
+                                              "Passengers": [
+                                                {
+                                                  "id": "falling_block",
+                                                  "BlockState": {
+                                                    "Name": "command_block"
+                                                  },
+                                                  "Time": 1,
+                                                  "TileEntityData": {
+                                                    "Command": "/fill ~8 ~-11 ~-1 ~8 ~-11 ~1 minecraft:quartz_pillar[axis=y]"
+                                                  },
+                                                  "Passengers": [
+                                                    {
+                                                      "id": "falling_block",
+                                                      "BlockState": {
+                                                        "Name": "command_block"
+                                                      },
+                                                      "Time": 1,
+                                                      "TileEntityData": {
+                                                        "Command": "/fill ~8 ~-12 ~ ~8 ~-12 ~ minecraft:sea_lantern"
+                                                      },
+                                                      "Passengers": [
+                                                        {
+                                                          "id": "falling_block",
+                                                          "BlockState": {
+                                                            "Name": "command_block"
+                                                          },
+                                                          "Time": 1,
+                                                          "TileEntityData": {
+                                                            "Command": "/fill ~1 ~-14 ~ ~1 ~-1 ~ minecraft:redstone_block"
+                                                          },
+                                                          "Passengers": [
+                                                            {
+                                                              "id": "falling_block",
+                                                              "BlockState": {
+                                                                "Name": "redstone_block"
+                                                              },
+                                                              "Time": 1
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
